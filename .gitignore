@@ -25,7 +25,6 @@ yarn-error.log*
 
 # local env files
 .env*.local
-.env
 
 # vercel
 .vercel
@@ -39,3 +38,4 @@ branch_structure.json
 
 # editor/tooling config, not project content
 .claude/
+config.bat
